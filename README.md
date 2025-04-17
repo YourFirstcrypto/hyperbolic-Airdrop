@@ -1,6 +1,7 @@
 
 # Hyperbolic Node Run Guide by YourFirstCrypto
 
+- For PC you have to Download WSL ( check out any video of Installing WSL )
 - For Mobile You have to Downlaod a New App
 - Download this App: https://play.google.com/store/apps/details?id=tech.ula&pli=1
 
@@ -68,7 +69,7 @@ python3 chatbot.py
 ```
 ---
 
-# To Start Node Next Day use the given Command 👇
+# Next Day to Start Your Node Paste These Commands 👇
 ```
 cd chatbot-app
 ```
